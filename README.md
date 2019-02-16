@@ -5,7 +5,7 @@ Creating a combination chart in PHP has never been easier before, especially whe
 A combination chart is combine from different types of charts. For example a combination of line, bar, are etc. To be noted that the series of chart type are rendered in the order they appear in trace array and as a result, they overlap others. Line chart, bar chart, area charts, histogram or scatter chats cannot be combined with any other chart type.
 
 ### Creating a dynamic combination chart in PHP using Dashboard Builder.
-<center><img src="https://raw.githubusercontent.com/DashboardBuilder/combination-chart-php/master/img/combination-chart.png" alt="Combination chart in PHP" title="Combination chart in PHP"/></center>
+<img src="https://raw.githubusercontent.com/DashboardBuilder/combination-chart-php/master/img/combination-chart.png" alt="Combination chart in PHP" title="Combination chart in PHP" style="text-align:center;"/>
 
 Dashboard Builder helps you to create combination chart with a drag and drop tool as well as simple PHP coding and a SQL engine with ease. Dashboard Builder also generates PHP source code for you to use it anywhere in your application.
 
